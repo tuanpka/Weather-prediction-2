@@ -34,10 +34,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+For over three years, COVID-19 has remained a significant and transformative event in global health, affecting millions of lives worldwide. We've all felt a sense of urgency to understand and combat this pandemic. In our COVID-19 Data Analysis project, we're set out to create a comprehensive, modern, and insightful analysis using the power of machine learning.
 
-
-* Thực hành sử dụng thư viện Numpy, Pandas, Matplotlib...
-* Sử dụng Scikit-learn và các mô hình học máy (Linear Regression, KNN,…) để huấn luyện mô hình
+We're not just compiling statistics and visualizations; we're introducing innovations and new methodologies to uncover deeper insights. Introducing the COVID-19 Data Analysis project, where you'll discover new patterns, predictions, and unique perspectives while preserving the critical essence of data integrity and scientific rigor. Welcome to the evolution of data analysis in the fight against COVID-19!
 
 
 
@@ -55,9 +54,13 @@
  
 <!-- AUTHOR -->
 ## Author
-All of this work is developed by Phạm Minh Tuấn
+This project is developed by Group 10.  
+
+Contact:
+* Phạm Minh Tuấn – 21012400@st.phenikaa-uni.edu.vn
+* Khương Thành An - 21011082@st.phenikaa-uni.edu.vn
 
 Project Link:
-[https://github.com/tuanpka/Lap-trinh-cho-AI](https://github.com/tuanpka/Lap-trinh-cho-AI)
+[https://github.com/tuanpka/Project-Covid19](https://github.com/tuanpka/Project-Covid19)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
