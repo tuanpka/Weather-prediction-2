@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   
-<img src="https://i.imgur.com/uVKXQUf.png" width="360" height="180">    
+<img src="https://www.usda.gov/sites/default/files/2021-03/ree-usda-science-covid-blog-030421.jpg" width="360" height="180">    
 
   </a>
 
