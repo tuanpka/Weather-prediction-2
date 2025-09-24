@@ -1,22 +1,16 @@
-<!--
-*** Thanks for checking out our project. 
-*** This README file is created by Pham Minh Tuan, member of the project.
-*** Don't forget to give the project a star!
--->
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   
-<img src="https://www.usda.gov/sites/default/files/2021-03/ree-usda-science-covid-blog-030421.jpg" width="360" height="180">    
+<img src="https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/d686386a-f80f-4714-926b-31e68a3c4e00/w=7463" width="360" height="180">    
 
   </a>
 
-<h3 align="center"> Final project - Covid 19</h3>
+<h3 align="center"> Weather Prediction with AI and data mining</h3>
 
   <p align="center">
-    Programing for artificial intelligence
+    Programing for Data Mining pratice
     <br />
     <a href=" https://github.com/tuanpka/Project-Covid19"><strong>Explore the docs »</strong></a> 
     <br />
@@ -33,10 +27,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-For over three years, COVID-19 has remained a significant and transformative event in global health, affecting millions of lives worldwide. We've all felt a sense of urgency to understand and combat this pandemic. In our COVID-19 Data Analysis project, we're set out to create a comprehensive, modern, and insightful analysis using the power of machine learning.
-
-We're not just compiling statistics and visualizations; we're introducing innovations and new methodologies to uncover deeper insights. Introducing the COVID-19 Data Analysis project, where you'll discover new patterns, predictions, and unique perspectives while preserving the critical essence of data integrity and scientific rigor. Welcome to the evolution of data analysis in the fight against COVID-19!
+Việc dự báo thời tiết chính xác đóng vai trò quan trọng trong nhiều lĩnh vực như nông nghiệp, hàng không, và quản lý thiên tai. Với sự phát triển của các kỹ thuật khai phá dữ liệu (data mining) và học máy, khả năng dự báo thời tiết đã được cải thiện đáng kể. Các phương pháp này cho phép chúng ta không chỉ xử lý mà còn khám phá ra những quy luật và mẫu hình ẩn (hidden patterns) bên trong dữ liệu lịch sử, từ đó đưa ra các dự đoán chính xác hơn.
+ 
+Thông qua các kỹ thuật data mining, chúng tôi sẽ làm rõ các mối quan hệ phức tạp giữa các yếu tố thời tiết, từ đó lựa chọn và đánh giá các thuật toán học máy phù hợp để lãm rõ các quy luật thời tiết đã. 
 
 
 
@@ -54,13 +47,12 @@ We're not just compiling statistics and visualizations; we're introducing innova
  
 <!-- AUTHOR -->
 ## Author
-This project is developed by Group 10.  
+This project is wroten by Tuan
 
 Contact:
 * Phạm Minh Tuấn – 21012400@st.phenikaa-uni.edu.vn
-* Khương Thành An - 21011082@st.phenikaa-uni.edu.vn
 
 Project Link:
-[https://github.com/tuanpka/Project-Covid19](https://github.com/tuanpka/Project-Covid19)
+[https://github.com/tuanpka/Weather-prediction-2](https://github.com/tuanpka/Weather-prediction-2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
