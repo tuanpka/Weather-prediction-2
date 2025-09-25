@@ -27,9 +27,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Việc dự báo thời tiết chính xác đóng vai trò quan trọng trong nhiều lĩnh vực như nông nghiệp, hàng không, và quản lý thiên tai. Với sự phát triển của các kỹ thuật khai phá dữ liệu (data mining) và học máy, khả năng dự báo thời tiết đã được cải thiện đáng kể. Các phương pháp này cho phép chúng ta không chỉ xử lý mà còn khám phá ra những quy luật và mẫu hình ẩn (hidden patterns) bên trong dữ liệu lịch sử, từ đó đưa ra các dự đoán chính xác hơn.
+Việc dự báo thời tiết chính xác đóng vai trò quan trọng trong nhiều lĩnh vực như nông nghiệp, hàng không, và quản lý thiên tai. Với sự phát triển của các kỹ thuật khai phá dữ liệu (data mining) và học máy, khả năng dự báo thời tiết đã được cải thiện đáng kể. Các phương pháp này cho phép chúng ta không chỉ xử lý mà còn khám phá ra những quy luật bên trong các sự kiện thời tiết từ đó đưa ra các dự đoán chính xác hơn.
  
-Thông qua các kỹ thuật data mining, chúng tôi sẽ làm rõ các mối quan hệ phức tạp giữa các yếu tố thời tiết, từ đó lựa chọn và đánh giá các thuật toán học máy phù hợp để lãm rõ các quy luật thời tiết đã. 
+Thông qua các kỹ thuật data mining, chúng tôi sẽ làm rõ các mối quan hệ phức tạp giữa các yếu tố thời tiết, từ đó lựa chọn và đánh giá các thuật toán học máy phù hợp để tạo mô hình dự báo thời tiết dự trên nhiệt độ. 
+
+Kết quả của dự án sẽ được chúng tôi thể hiện trên nền tảng website Streamlit - với khả năng cho người dùng tương tác dữ liệu để dự báo thời tiết
 
 
 
@@ -37,7 +39,7 @@ Thông qua các kỹ thuật data mining, chúng tôi sẽ làm rõ các mối q
 
 *  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 *  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-*  ![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=flat)
+*  ![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=for-the-badge)
 *  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 *  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
